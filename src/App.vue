@@ -3,6 +3,7 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
+  <h1>Tic Tac Toe with Vue.js</h1>
   <router-view />
 </template>
 
